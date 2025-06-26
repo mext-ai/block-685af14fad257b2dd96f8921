@@ -21,7 +21,7 @@ const Block: React.FC<BlockProps> = () => {
         textShadow: '2px 2px 4px rgba(0,0,0,0.3)',
         margin: 0
       }}>
-        Hi there, I'm an  empty block  ✨
+        Hi there, I'm an  empty   ✨
       </h1>
     </div>
   );
